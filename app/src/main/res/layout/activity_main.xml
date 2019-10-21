@@ -235,6 +235,14 @@
                     android:textColor="#fff"
                     android:textSize="70sp"
                     android:textStyle="bold" />
+                
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content" 
+                          android:text="Terima Kasih" 
+                          android:id="@+id/textView9" 
+                          android:layout_marginBottom="106dp" 
+                          android:layout_alignParentBottom="true" 
+                          android:layout_centerHorizontal="true"/>
 
             </LinearLayout>
 
